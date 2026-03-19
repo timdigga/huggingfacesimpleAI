@@ -88,7 +88,7 @@ Five built-in presets you can switch instantly:
 ## 🚀 Getting started
 
 ```bash
-git clone https://github.com/timdigga/tims-ai.git
+git clone https://github.com/timdigga/huggingfacesimpleAI.git
 cd huggingfacesimpleAI
 
 python -m venv .venv
