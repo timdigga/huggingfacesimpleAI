@@ -89,13 +89,13 @@ Five built-in presets you can switch instantly:
 
 ```bash
 git clone https://github.com/timdigga/tims-ai.git
-cd tims-ai
+cd huggingfacesimpleAI
 
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
 pip install torch transformers pyttsx3
-python main.py
+python main_init.py
 ```
 
 > On first run it'll pull down the default model (`Foundation-Sec-8B-Instruct`) from HuggingFace. Grab a coffee — it's a few GB.
